@@ -1,0 +1,10 @@
+DECLARE 
+knockout VARCHAR(100) := 'knockout';
+angularjs VARCHAR(100) := 'angularjs';
+jquery VARCHAR(100) := 'jquery';
+underscore VARCHAR(100) := 'underscore';
+BEGIN
+
+
+
+END
